@@ -1,8 +1,8 @@
-# 🧩 Language Challenge
+## 🧩 Language Challenge
 
-## 🟢 Challenge 1 — Basic Words to translate to Toki Pona
+### 🟢 Challenge 1 — Basic Words to translate to Toki Pona
 
-| Word     |
+| English     |
 | -------- |
 | I        |
 | Person   |
@@ -15,7 +15,7 @@
 | Friend   |
 | Want     |
 
-## 🟡 Challenge 2 — Toki Pona Words
+### 🟡 Challenge 2 — Toki Pona Words
 
 Now let's make it a little harder.
 
@@ -33,7 +33,7 @@ Now let's make it a little harder.
 | ike       |
 
 
-## 🔵 Challenge 3 — Modern & Technical Words
+### 🔵 Challenge 3 — Modern & Technical Words
 
 How would you express these concepts?
 
@@ -51,7 +51,7 @@ How would you express these concepts?
 | Engineer   |
 
 
-## 🔴 Challenge 4 — Full Sentences
+### 🔴 Challenge 4 — Full Sentences
 
 Now let's move from individual words to complete ideas.
 
